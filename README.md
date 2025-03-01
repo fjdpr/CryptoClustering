@@ -30,11 +30,11 @@ The dataset includes:
 ## Instructions
 
 ### Getting Started
-1. Ensure you have the required libraries installed:
+1. **Ensure you have the required libraries installed**:
    ```bash
    pip install pandas hvplot scikit-learn
    ```
-2. Open `Crypto_Clustering.ipynb` in Jupyter Notebook or JupyterLab.
+2. **Open `Crypto_Clustering.ipynb` in Jupyter Notebook or JupyterLab**.
 
 ## Features
 - **Data Normalization**: Normalize the cryptocurrency market data using StandardScaler.
@@ -50,4 +50,7 @@ The Jupyter Notebook can be run locally on your machine. Ensure you have Jupyter
 - [hvPlot documentation](https://hvplot.holoviz.org/)
 
 ## Contributions
-Contributions are welcome. If you have suggestions or improvements, please open an issue or submit a pull request.
+We welcome and appreciate contributions from the community. If you have suggestions or improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
